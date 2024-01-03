@@ -17,10 +17,11 @@
 
 <h2 align="center"> 🔭 Languages and Tools</h2>
 
-![Javascript](https://img.shields.io/badge/javascript-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express JS](https://img.shields.io/badge/express.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript-6DA55F?style=for-the-badge&logo=javascript&logoColor=white)
+![Express JS](https://img.shields.io/badge/express.js-6DA55F?style=for-the-badge&logo=express&logoColor=white)
+![Typescript](https://img.shields.io/badge/typescript.js-6DA55F?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-6DA55F?style=for-the-badge&logo=oracle&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
