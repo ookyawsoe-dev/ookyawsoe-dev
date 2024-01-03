@@ -20,6 +20,8 @@
 ![Javascript](https://img.shields.io/badge/javascript-6DA55F?style=for-the-badge&logo=javascript&logoColor=white)
 ![Express JS](https://img.shields.io/badge/express.js-6DA55F?style=for-the-badge&logo=express&logoColor=white)
 ![Typescript](https://img.shields.io/badge/typescript.js-6DA55F?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/next.js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=%2361DAFB)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-6DA55F?style=for-the-badge&logo=oracle&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
